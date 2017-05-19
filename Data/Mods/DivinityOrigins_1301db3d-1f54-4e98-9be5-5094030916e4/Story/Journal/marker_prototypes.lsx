@@ -1,0 +1,684 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+  <region  id="Markers">
+      <node  id="root">
+          <children>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_DoorToMagisterQuarters" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_DoorToMagisterQuarters_5d5f9fda-55c3-429e-ace3-ba41bd3a59be" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Door to the Fort" handle="h11e26f0cg8008g4570gba21g4c950b7d1557" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_DreamerRestingPlace" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_Dirtmound_008_Box_1ed27b5b-5857-48b4-bdca-5b2534c9a5c5" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Dreamer's Resting Place" handle="h8efff9cbgc5e8g4567gbee1g0dd338120f64" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_Handler" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_IfanHandler_d0920841-a984-4ea4-92c6-31d236ee2540" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Character" type="22"/>
+                <attribute id="MarkerBroadcast" value="Character" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Zaleskar" handle="hb9a74e33g73ecg45ecg8bedg66ce16e7e9fd" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_IllusionistDungeonEntrance" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_SW_IllusionistDungeonEntrance_00b9cf78-d62d-4e6f-a0d5-cc80714da014" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Cave Entrance" handle="h471d661fgebc2g488dgbc72g7a130e1d810b" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_Waterway" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_KidAtBoat_Point_4c64e115-671a-43e7-a162-7d10b5b3f6f5" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Waterway |" handle="h935ceba7gb62cg4702g8ae7g9835fb3c421f" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_ModyPlayHouse" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_SUB_ModyPlayHouse_6eb9f329-c357-4e46-812e-ae076405242b" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="SecretMarker" type="22"/>
+                <attribute id="DisplayText" value="Mody's Playhouse" handle="h47f3e48cgf2ceg4307g966cg2f8fab0edb1d" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_SW_BraccusArmory" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_SW_Marker_BraccusArmory_5ac2c7a2-d2cf-4d88-b8fc-0fb46a1fa82e" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Braccus Armoury" handle="h85912bb6g7e2bg40fcg9b85g0d2f2b274964" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_SW_GatherPoint" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_SW_AD_SeekerCamp_71620fa0-70e7-4f16-8441-ab87d227ee75" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Gareth's Rallying Point" handle="h447c71f6g4099g46dfgabc6g5484da6b3035" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_SW_IllusionDungeonHint" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_SW_IllusionDungeonHint_35831dd5-c06a-4da8-b915-1d1bdd285871" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Mysterious Cave" handle="h71527f2dg2f12g447bgafc4g55bed0f96fd9" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_SW_PirateTresure" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_DirtPile_004_Box_50bb4b1d-4d5b-40f3-a20e-1b1d4539a1e6" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Pirate Treasure" handle="hba23b55cg5204g42c5g8ec0gecec168d57a1" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_SW_Shelter" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_SW_Shelter_51c3953f-c756-472d-a7ca-dc2a6232b386" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Seeker Hideout" handle="h83c4b4c8g38d9g40c2g8574gd8300da3978e" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_SW_UndeadTower" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_SW_MeetUndeadGuards_386a5dbc-46d0-4022-8ff3-55f02055aa23" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Haunted Tower" handle="hd783d5e6gf930g4c03gbaa5g0aa8cfdf6c49" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_SW_WitchCave" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_SW_NecroCaveEntrance_53b24ea9-e30c-4e4b-82c4-b1adfce759ab" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Witch Location" handle="hcfb6ad4cgd342g42f3g9041g32de7dd44a17" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_TeleporterCroc" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_TeleporteQuestrCroc_001_bc1a10a1-51b6-42c5-b517-827565f6512b" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Character" type="22"/>
+                <attribute id="MarkerBroadcast" value="Character" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Crocodile" handle="h50a4b196g9bd3g434dga59bgc18a27699bb8" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_TeleporterElfTreasure" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_Dirtpile_009_Box_30fd565b-7a86-4d8f-bfa4-8e3d414bf57e" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Hidden Treasure" handle="h062839f3gab18g4883gb5eeg546a20cb0670" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="FTJ_WithermooreHatch" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_RezikHole_b1ef3134-b711-4e8d-8e1e-dbe9e7655a54" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Hidden Entrance" handle="h89b600b6g985fg4410g8aedg1766d12dc32e" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_AbandonedHouse" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DW_AbandonedHouse_MarkerPoint_26024f65-37fc-411f-b40e-e5100a022225" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="|Seeker Source Weapon cache|" handle="h183c7358gb1f1g4628ga5c9g071e33d02e55" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_DS_ShipwreckLocation" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DW_DS_ShipwreckLocation_c9a782e6-3360-443f-a21e-060d42abfd6a" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="|Shipwreck Location|" handle="h81c848d8gae12g42cag9d2bg1692b7e1e8db" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_FishFactoryHatch" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DW_FishFactoryHatch_50b734ed-4910-4455-b4fb-05213064bc78" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Fish Factory Basement |" handle="h4f7bafecg7943g4b59g819cg49eeb64c9244" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_Tavern_Travelers_Caravan" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DW_Tavern_Travelers_Caravan_4be75454-bc89-453f-85c7-82aa53b422f0" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="|Destroied Traveler's Carvan|" handle="h4558a855gcb17g4196ga810g4273ce7b34f9" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_FTJ_Alcove" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_TeleporterNPCCoveWaitingPoint_e8726316-0743-4c3d-96fc-262bb3ae8481" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Alcove" handle="h38c1d6abg06f2g4e96g879egbe5b6170adcf" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_FTJ_Amyro" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_ImprissonedSkeptic_792c9745-1a8d-4d63-ae4c-33927457730a" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Character" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Amyro" handle="hf062721agf539g4e2cg948age8121a5edce6" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_FTJ_Florence" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_Florence_c272a37a-85ea-438f-9871-1551ef45d338" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Character" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Atusa" handle="hda412107gba0fg4cf5gbe4fgf68719bc4a46" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_FTJ_Olgo" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="GLO_Olgo_84758f75-01a3-4cce-9922-f42ffc4afddd" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Character" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Griff" handle="hb2b06b9bg1088g4343gaa35g74ebb42a0e16" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_FTJ_Saheila" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_Sceptic_Lizard_001_fcacdf08-b05f-4333-b0e0-ddf29c13d8e0" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Character" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Saheila" handle="hb07c9d3fg6522g408bga1e7gaac484efda39" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_FTJ_SecretEntranceToUnderground" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="RC_FTJ_DirtMound_008_Box_c991d6cb-d3da-4b09-941c-804f2853e2ec" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Entrance to Underground" handle="hef73c70dg2e8dg44dfg8050gddeb4c8730e5" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_FTJ_SoulJarButton" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_FTJ_SoulJarButton_12c71c4f-5d11-4572-b89f-84faea8b43b9" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Lever" handle="h3fa7cf50gb232g4e90g9a8bga99cc54e35fa" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_FTJ_WithermooresTreasure" type="22"/>
+                <attribute id="MarkerLevel" value="FJ_FortJoy_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="RC_DU_WithermooreDirtPile_Box_b5631693-2d72-4a7d-bacf-31851927d16c" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Withermoore's Cache" handle="h8ea4ae12g37a6g45a9gbec2gc58427e0f87f" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_MIL_BeetleNest" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_MIL_DuneBeetleNest_ef55d4dd-8821-4907-9ba7-931808e7e1b9" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Dune Beetle Nest" handle="h639ab28bg42d3g462fg8178g76073ad2e89e" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_MIL_ElfCamp" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_MIL_REGION_ElfCamp_6c4aa9ce-a6b4-45e8-a65c-293a865dfcd6" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Elven Camp" handle="h60be656bg0c5ag4f6bgb216g081f236bc852" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_MIL_Sawmill" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_MIL_REGION_SawMill_2fb470b0-2430-4a16-a1f6-1439a679759e" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Abandoned Livewood Sawmill" handle="h1438b966g6242g4f44gac36gd3f141ffed29" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_MIL_TreePile1" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_MIL_TreePile1Tr_090ebd9f-d0f7-4400-b8e3-9054bb134d68" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="SecretMarker" type="22"/>
+                <attribute id="DisplayText" value="Logger's Cache" handle="h301ecc8cgd55cg49bag9c06gd5210643b158" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_MIL_TreePile2" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_MIL_TreePile2Tr_d183f04d-cdb5-474f-86d6-cc2a813440da" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="SecretMarker" type="22"/>
+                <attribute id="DisplayText" value="Logger's Cache" handle="h301ecc8cgd55cg49bag9c06gd5210643b158" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_MIL_TreePile3" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_MIL_TreePile3Tr_48a7d435-dcd7-4478-baea-b001fa2eff18" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="SecretMarker" type="22"/>
+                <attribute id="DisplayText" value="Logger's Cache" handle="h301ecc8cgd55cg49bag9c06gd5210643b158" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_MIL_TreePile4" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_MIL_TreePile4Tr_cc461d88-44cc-43ab-9274-920b0a6e8851" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="SecretMarker" type="22"/>
+                <attribute id="DisplayText" value="Logger's Cache" handle="h301ecc8cgd55cg49bag9c06gd5210643b158" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_OIL_CaveEntrance" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="RC_OIL_TP_ToSurface_93f91019-8e22-4e77-a26e-a3d714d5dd39" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Cave Entrance" handle="h471d661fgebc2g488dgbc72g7a130e1d810b" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_OIL_Oilcave" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="RC_OIL_CaveEntranceDoor_d0be15ee-e806-48a1-bf66-5f1196984cb1" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Mysterious Cave" handle="h71527f2dg2f12g447bgafc4g55bed0f96fd9" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_OIL_Oilfields" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="RC_OIL_SUB_Oilfields_bdbc337d-ee81-4b3d-96f7-d291fc5b271f" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Oilfields" handle="hb1f218b4gc5aag47efg8e62g539abee93309" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_OIL_OldWorkshop" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_OIL_SUB_OldWorkshop_8a950774-a19c-4eb6-a0e2-7e6420ca12e9" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Old Workshop" handle="hda099316g21cag4f17ga2a2g485d08ba6b28" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_OIL_RaanaarTomb" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_OIL_SUB_RaanaarTemple_2cfa254a-7f85-4cb7-94d0-ff3ced73ab8a" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Ancient Temple" handle="h178fcb50g2d16g4361g98dbgf09b6e1b8b12" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_OIL_Ruins" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_OIL_SUB_Ruins_e02846cb-2393-4261-b511-b77fed30343f" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Cave Ruins" handle="h30a7eedcg09b9g4a78g8398gc966f7719032" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_OIL_Workshop" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_OIL_SUB_Workshop_0bc5f160-7494-4f42-8ac5-993b7b8fb229" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Workshop" handle="h09ee4084g99acg4205ga04cg27f245dda156" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_WC_DT_DeadTraderStashLocation" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="RC_WC_DT_DeadTraderStashLocation_43984186-7d89-49cf-be85-02da6bdb92ec" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Dead Trader Stash Location |" handle="he86bf9cdgfd12g4438ga72dgab2970b99b20" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_WC_DT_GarvanSuppliesLocation" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="RC_WC_DT_GarvanSuppliesMarker_85d99e7d-25e6-4c76-9801-f9a84b6c6713" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Voidwoken attack location |" handle="ha7e09de0g176cg4727gb04ag8dba7711ea52" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_WC_SecretVault" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_WC_SecretVault_b08917da-fad5-4e2b-a1c8-4ff39ad05259" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="|Secret Vault|" handle="hed83942dg0d82g4521g9d42g2ea25607721f" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_ARX_BlackHouse" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_ARX_Marker_BlackHouse _b63f99c8-3c48-4ed3-af90-b55f1b99a491" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Black House |" handle="h970f42a2g7094g4cb7g9956g49fb70c6478c" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_ARX_BurnerPaladinGift" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_ARX_WeakenedWall_9bbe1d44-c3a6-4ae5-8580-5ec569d9e50d" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="|The ring's location|" handle="h2f482fcfg0019g4eb3gbc51g7f0a122333b2" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_ARX_BurnerPaladinWife" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_ARX_BurnerPaladinWife_c01494b5-cf4d-4393-b907-21c55694e546" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Character" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="|The Paladin's girlfriend|" handle="h9f65d07eg931eg4f81gbb9cga930647bbb61" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="ARX_Barrkacks_MainHall_PaintingPassage" type="22"/>
+                <attribute id="MarkerLevel" value="ARX_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_ARX_Barracks_MainHall_PassageToPrison_090b8a70-32a6-4033-9f03-190d1c585f50" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="|Secret Passage|" handle="hc76e4101g910cg4ad4gad6dge30f4d8dda10" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_WreckersCave" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DW_WreckersCave_LighthouseEntrance_c675b508-6960-4876-9f09-4ce4ea34a78e" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Wrecker's Cave |" handle="heb35805fg1d02g49dagb1e6ga3f3b71182c8" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_VC_EggMapMarker" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DW_VC_HatchTrigger_9cacc4e1-9aae-4347-97b2-0cf0d4c7dc2e" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Eggs location |" handle="hf58d2774g4798g4ccegb6cbg8ccf386ffece" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_WhiteMagister" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DW_WhiteMagister_b1bdd004-a286-4ad5-9826-a763d672b2a7" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Character" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="Magister Leadship in Driftwood" handle="h6e593a52gb457g474bga986gd9f6f5550d27" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_VC_MagicRoosterLocation" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DW_VC_MagicRoosterLocation_1eb7a27d-eb28-41e5-9751-8aab567d524f" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Magic Rooster |" handle="hd188c625g448cg4f86gb289gee49839b8869" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_UnderTavernSpider" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DW_UnderTavern_Dorotya_6fa62a51-5ac2-4b51-b3a8-0d7bf8e4b069" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Character" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| UnderTavern Spider |" handle="h992f5b01ge5f4g4bb0ga3c7g02ab8664a458" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DU_SickCatTreasure" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DU_SickCatTreasure_Box_182cfaac-35bc-4f32-90c0-687e7498eb69" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="SecretMarker" type="22"/>
+                <attribute id="DisplayText" value="| Cat's Treasure|" handle="h8235733eg21b6g47d1g9346g5b58c02b1d37" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_GR_RykersHouse" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_GY_SUB_RykerHouse_GroundFloor_f685aad8-a811-4d5c-9e90-81e5a66456cc" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Ryker's House|" handle="h491202e7g64f4g4d69g83c0g8251b330bd63" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_BI_ThePresence" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_NAT_ORI_Tree_Ancestor_B_001_843ffd17-c196-4d97-a2c5-90f2bdf4b9a9" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| The Presence |" handle="h8e7c8bd9g3175g437bg9e8fg58c3e06938cc" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_Meistr_House" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DW_Meistr_House_GroundFloor_9e49918d-6ac4-4ef1-81ae-d113dceda62a" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Meistr's House |" handle="h40a028efge053g41fcgad0bg02355166c2a6" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_Meistr_Gallows" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DW_MeistrGallows_09d00035-7d34-497a-a446-3afc30002a97" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Gallows |" handle="h6dce6189g6cb3g4970gaa47g5f281b3405e4" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_Inn" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="RC_DW_Inn_61589961-28fb-49c5-9e1a-f988d77ff57c" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| The Black Bull |" handle="hf6681067g1725g4b81g8f67g57f8758f134d" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_WH_SourceLichAltar" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DW_SourceLichAltar_b25f59fb-3b57-4c18-8375-fb1c8c48f266" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Source Lich's Cache|" handle="hd9e9dc1bgf25cg4d14g88beg2a0ddd113b47" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_UnderTavern_Dorotya_KissSpot" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DW_UT_Dorotya_KissSpot_fd0080f1-517b-4faf-beff-0e87b9616e2c" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Hookup spot |" handle="hc980af9cg7ce6g4034ga214g49df6ef6cb40" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_BarracksStairsToChest" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_DW_Barracks_GroundFloor_c62a54c8-52d4-4ddf-b0c5-e93cb39fe35c" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Staircase to Magister barracks chest |" handle="hdf4f6b18g4859g490egab3dgac8fe68140d4" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="S_RC_GY_Graveyard" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_GY_SUB_Graveyard_59ac9cef-edf4-492f-906c-fbde552e68d3" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Graveyard |" handle="h5b919efbg2693g44b0ga325g592169c7ca98" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_DW_WC_WeaponsChamberRatExit" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_WeaponChamber_PUZ_Dirtpile_A_IN_298465bb-81de-4a66-aa91-e991f67fb00c" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Item" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Weapons Chamber Tunnel |" handle="h98a4f815gde6cg4d14g835eg857af5176c28" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="TEST_PVP_User" type="22"/>
+                <attribute id="MarkerLevel" value="TestLevel_GenericBehaviours" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="eeeec36a-efd2-4292-aca4-845ab5631e98" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Character" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="|Test PVP User NPC|" handle="h2024e88egae27g4826ga114g68707f6e2495" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="TEST_PVP_Party" type="22"/>
+                <attribute id="MarkerLevel" value="TestLevel_GenericBehaviours" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="54f591ef-3ba7-47a2-a241-2f52e415e132" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Character" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="|Test PVP Party NPC|" handle="h4175f935g82bdg40ccgaf03gfe2425b65754" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="Hamlet_Entrence_Marker" type="22"/>
+                <attribute id="MarkerLevel" value="ARX_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_Hamlet_Entrence_Marker_2e835a2e-33d2-4fcd-975b-05c54a500dfa" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Hamlet |" handle="h733929ceg277cg4deagb5b4gb9d983017ccf" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="ARX_Wetwork_Groom_EscapeMarker" type="22"/>
+                <attribute id="MarkerLevel" value="ARX_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_ARX_Wetwork_Groom_EscapeMarker_2a78b4f1-3016-46c3-8233-a4f71e154669" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="| Groom's Secret Lab |" handle="h30b03aacga9acg4a4fg8ef4g0104ec96ad9d" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_GY_HumanHeroChest" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_GY_Memorial_GraveHumanArea_540381bd-6775-44c8-9289-d0eac65f3cd7" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="SecretMarker" type="22"/>
+                <attribute id="DisplayText" value="| Hero of Driftwood Human Chest |" handle="hd68ca4f5g731cg4134g9894ga440b65194fc" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_GY_ElfHeroChest" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_GY_Memorial_GraveElfArea_1d9714e7-0cdb-4393-80ce-42de6aa3184a" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="SecretMarker" type="22"/>
+                <attribute id="DisplayText" value="| Hero of Driftwood Elf Chest |" handle="hd4d34fdcg4d02g4ab0g943fga3e2f54f63cc" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_GY_DwarfHeroChest" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_GY_Memorial_GraveDwarfArea_e58b28ea-bc77-48e7-8361-8b1805dd6123" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="SecretMarker" type="22"/>
+                <attribute id="DisplayText" value="| Hero of Driftwood Dwarf Chest |" handle="h3b6a7d78g7e15g48e4gb70agfd15e0ab1b58" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_GY_LizardHeroChest" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_GY_Memorial_GraveLizardArea_89270c8a-715d-44ea-b7c8-9a7bcb427540" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="Party" type="22"/>
+                <attribute id="MarkerIcon" value="SecretMarker" type="22"/>
+                <attribute id="DisplayText" value="| Hero of Driftwood Lizard Chest |" handle="h90e7dc74g128ag4f72g9c6agf5d3073feca1" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_MIL_MillOverseer" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_MIL_MillOverseer_Ghost_9d107991-3bb8-4b3a-894a-f17fc83b59f7" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Character" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="LocationMarker" type="22"/>
+                <attribute id="DisplayText" value="|The Sawmill's Overseer |" handle="h502a5253g6acag48f6gbf96gf694510f0987" type="28"/>
+            </node>
+            <node id ="Marker">
+                <attribute id="MarkerID" value="RC_MIL_LoneWolf2Cache" type="22"/>
+                <attribute id="MarkerLevel" value="RC_Main" type="22"/>
+                <attribute id="MarkerTargetObjectUUID" value="S_RC_MIL_LoneWolf2CacheBox_5bb20eb1-1dee-4326-bb6b-d11d848b54b7" type="22"/>
+                <attribute id="MarkerTargetObjectType" value="Trigger" type="22"/>
+                <attribute id="MarkerBroadcast" value="User" type="22"/>
+                <attribute id="MarkerIcon" value="SecretMarker" type="22"/>
+                <attribute id="DisplayText" value="|Lone Wolf's Cache.|" handle="h2a1db0e7g311cg4314g92ecg6e93cbeaf0e0" type="28"/>
+            </node>
+          </children>
+      </node>
+  </region>
+</save>

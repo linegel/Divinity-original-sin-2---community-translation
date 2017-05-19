@@ -1,0 +1,305 @@
+<contentList>
+	<content contentuid="hd0dcb289g2039g419fg898dg4e071a0a05e3">Добро пожаловать в игру Divinity: Original Sin 2! Чтобы начать путешествие, &lt;font color="70b10e"&gt;щелкните&lt;/font&gt; в любом месте или &lt;font color="70b10e"&gt;зажмите&lt;/font&gt; [IE_FlashLeftMouse].</content>
+	<content contentuid="h70b4ad17g0787g4f56g9bebgabdee503da55">Бой проходит в &lt;font color="70b10e"&gt;пошаговом режиме&lt;/font&gt;. Во время вашего хода вы можете потратить определенное число &lt;font color="70b10e"&gt;очков действия&lt;/font&gt; (ОД). ОД тратятся на &lt;font color="70b10e"&gt;любое действие&lt;/font&gt; в бою. Потратив все ОД, вы завершите ход.</content>
+	<content contentuid="ha7fcd99cg4ba3g4a02gb1a1g3002f135740f">В дневнике появились &lt;font color="70b10e"&gt;новые сведения&lt;/font&gt;. Чтобы их просмотреть, нажмите [IE_ToggleJournal].</content>
+	<content contentuid="hd9a8c60fg58f2g42c2gb7f8g4afcc5fb3162">Вы можете &lt;font color="70b10e"&gt;торговать и меняться вещами&lt;/font&gt; почти со всеми персонажами. Чтобы начать обмен, выберите значок &lt;font color="70b10e"&gt;торговли&lt;/font&gt; на панели диалогов.</content>
+	<content contentuid="hd5fc720ag39d6g4c1bg85f8g6cdddc48ec27">Нажмите и держите [IE_CameraToggleMouseRotate], чтобы повернуть камеру. Чтобы изменить &lt;font color="70b10e"&gt;масштаб&lt;/font&gt;, используйте [IE_DefaultCameraZoomIn] и [IE_DefaultCameraZoomOut].</content>
+	<content contentuid="h80aae08egb231g493bgb002gbbcabe3408c7">Для перехода в скрытный режим нажмите [IE_ToggleSneak]. Чтобы вас не заметили, не входите в конусы, которые отмечают поле зрения окружающих.</content>
+	<content contentuid="h29cf67ebgc56bg4319gaaedg3115d8aba3b2">Чтобы открыть панель персонажа, нажмите [IE_ToggleCharacterPane].</content>
+	<content contentuid="h3287e639g8501g4baeg804bge99e7404ec98">Чтобы &lt;font color="70b10e"&gt;передвинуть&lt;/font&gt; предмет, щелкните по нему и затем, зажав кнопку, перетащите его на нужное место.</content>
+	<content contentuid="ha81eaa65g1b26g47a5gbc55g4bf35d39ee48">Для быстрого &lt;font color="70b10e"&gt;сохранения&lt;/font&gt; нажмите [IE_QuickSave], для быстрой &lt;font color="70b10e"&gt;загрузки&lt;/font&gt; - [IE_QuickLoad].</content>
+	<content contentuid="h460c3a10g1b22g46f4gba81gbd3505f32624">Чтобы &lt;font color="70b10e"&gt;разделить&lt;/font&gt; отряд, разведите портреты персонажей в стороны. Не связанные персонажи не будут следовать друг за другом.</content>
+	<content contentuid="h48d148d8ga8acg4eb3gb313g4431d78d7e98">Чтобы выделить предметы, которые можно подобрать, нажмите и держите [IE_UIShowItems]. Чем выше ваше &lt;font color="70b10e"&gt;смекалка&lt;/font&gt;, тем больше предметов вы увидите.</content>
+	<content contentuid="h0ae229c5gea12g4ab5gb9c7g4723f9592822">Вы нашли &lt;font color="70b10e"&gt;лопату&lt;/font&gt;! Если вам встретится подозрительная &lt;font color="70b10e"&gt;куча земли&lt;/font&gt;, попробуйте ее раскопать.</content>
+	<content contentuid="hf723e005gc662g49fdgae93g3e6524a3ab33">Это диалог &lt;font color="70b10e"&gt;совместной игры&lt;/font&gt;. Он позволяет отыгрывать отношения между основными героями.</content>
+	<content contentuid="h59e09cbegc186g4ebcgbc75g9bf9d253d973">&lt;font color="70b10e"&gt;Здоровье&lt;/font&gt; одного из членов вашего отряда почти на нуле. Воспользуйтесь &lt;font color="70b10e"&gt;лечебным зельем&lt;/font&gt; или &lt;font color="70b10e"&gt;заклинанием исцеления&lt;/font&gt;.</content>
+	<content contentuid="hf296a95fg5ec3g40abg9953g70afee84eba9">Вы нашли &lt;font color="70b10e"&gt;aлтарь странствий&lt;/font&gt;. Он позволяет мгновенно переместиться к любому другому алтарю, который вы уже нашли.</content>
+	<content contentuid="hcd2327bcg9e61g470fg8629gfdd21b2575ac">Используйте свитки с заклинанием &lt;font color="70b10e"&gt;Воскрешение&lt;/font&gt;, чтобы возвращать павших к жизни.</content>
+	<content contentuid="h6be906a8ge8fdg40b6g84f4g336123cf64c1">Чтобы открыть &lt;font color="70b10e"&gt;запертую дверь или сундук&lt;/font&gt;, вы можете найти ключ, научиться взламывать замки или прибегнуть к грубой силе.</content>
+	<content contentuid="hd955c0d8g5b89g4b04gab49gae16a6b5e620">Выделите врага, нажмите [IE_ContextMenu] и выберите &lt;font color="70b10e"&gt;Осмотреть&lt;/font&gt;. Чем выше ваше умение &lt;font color="70b10e"&gt;Знание легенд&lt;/font&gt;, тем больше вы узнаете.</content>
+	<content contentuid="hf8e9415bg2091g4b30ga61ag5f323b21a7b4">Пронзать мягкую плоть... Пить теплую кровь...</content>
+	<content contentuid="hf30e1852g5f72g4b52g9297g033a80425f81">Похоже, рычаг отключил те статуи.</content>
+	<content contentuid="hfa2fee44g5e0cg440bg942fgd15a629ccd6d">Вы не можете разобрать, что говорит это животное! Но вы &lt;font color="70b10e"&gt;смогли бы с ним поговорить&lt;/font&gt;, будь у вас талант &lt;font color="70b10e"&gt;"Любитель животных"&lt;/font&gt;.</content>
+	<content contentuid="h74cb73e0gd55fg43b1gad3bg9edc0bf93686">Благодаря таланту &lt;font color="70b10e"&gt;"Любитель животных"&lt;/font&gt; вы можете общаться с животными.</content>
+	<content contentuid="hc1c32838g91e7g40b3gb117gdb5e72d2bdf1">Вы открыли &lt;font color="70b10e"&gt;нечто сокрытое&lt;/font&gt;! Чем выше ваша &lt;font color="70b10e"&gt;смекалка&lt;/font&gt;, тем больше ловушек и секретов вы сможете заметить.</content>
+	<content contentuid="hf3325bf2g8331g439fgbdceg302c7665f68b">Судя по &lt;font color="70b10e"&gt;грязи&lt;/font&gt;, здесь недавно копали. Если у вас есть &lt;font color="70b10e"&gt;лопата&lt;/font&gt; или если вы &lt;font color="70b10e"&gt;Ящер&lt;/font&gt;, то можете попробовать узнать, что же тут зарыто.</content>
+	<content contentuid="h12fe0cb0g6ce2g4e4ag91aaga2e8d4e6abc6">Попробуйте закрыть отверстие, через которое выходит газ, каким-нибудь &lt;font color="70b10e"&gt;предметом&lt;/font&gt;, и &lt;font color="70b10e"&gt;ядовитое облако рассеется&lt;/font&gt;.</content>
+	<content contentuid="hb28ec6afg7aa0g4c09g958fgde8cd418de05">Вы открыли новую комнату в &lt;font color="70b10e"&gt;Обители&lt;/font&gt;.</content>
+	<content contentuid="hc5dbefe4gd52bg4c35gb0fbg1927a6477dba">Если над членом вашего отряда появился &lt;font color="70b10e"&gt;восклицательный знак&lt;/font&gt;, поговорите с ним, чтобы узнать его точку зрения относительно сложившейся ситуации.</content>
+	<content contentuid="had577a2cga380g4f4egadcbgc1589bbaeb19">Похоже, этот &lt;font color="70b10e"&gt;замок&lt;/font&gt; вскрыть не получится. Поищите &lt;font color="70b10e"&gt;ключ&lt;/font&gt; - он должен быть где-то поблизости.</content>
+	<content contentuid="h8607a8a0g2596g4cd7gbfaeg3333ab998831">Подсветите &lt;font color="70b10e"&gt;сундук&lt;/font&gt; и нажмите [IE_ContextMenu], чтобы открыть меню действий. Выберите &lt;font color="70b10e"&gt;Атаковать&lt;/font&gt;, чтобы выполнить соответствующее действие.</content>
+	<content contentuid="h871f6d19g514ag4cd8gb691gbadf979ae3f3">&lt;font color="70b10e"&gt;Замок&lt;/font&gt; этого сундука довольно прост. Найдите &lt;font color="70b10e"&gt;отмычку&lt;/font&gt; и взломайте его.</content>
+	<content contentuid="h281c4d10g559dg40e3g8547g6eedbaa05ee6">Ядовитые поверхности и облака можно &lt;font color="70b10e"&gt;поджигать&lt;/font&gt;. Для этого можно воспользоваться огненным заклинанием или горящей стрелой,</content>
+	<content contentuid="hf927e248g376dg46dag9d30gd3f345b77752">Эту дверь можно открыть двумя способами. Первый - &lt;font color="70b10e"&gt;найти ключ&lt;/font&gt;. Второй - &lt;font color="70b10e"&gt;отыскать рычаг&lt;/font&gt;.</content>
+	<content contentuid="h2b5373a8g17efg44ccgace1g20da960e28be">Огонь можно потушить &lt;font color="70b10e"&gt;водой&lt;/font&gt;. Для этого используйте заклинание или разбейте &lt;font color="70b10e"&gt;бочку с водой&lt;/font&gt;. Не наступайте на горящие поверхности!</content>
+	<content contentuid="hf6989e43gcc49g45aag86e5gccc88c9d2e0b">Иногда имеет смысл выслать вперед &lt;font color="70b10e"&gt;разведчика&lt;/font&gt;. Попробуйте занять позицию повыше, чтобы получить бонусы к урону и меткости. Зеленые кресты на земле во время прицеливания указывают на бонус от высоты.</content>
+	<content contentuid="haed74938gc2ebg476fga449g20c745c5aa90">&lt;font color="70b10e"&gt;Нажимные плиты&lt;/font&gt; срабатывают под весом персонажа или тяжелого предмета. При этом они издают &lt;font color="70b10e"&gt;характерный щелчок&lt;/font&gt;.</content>
+	<content contentuid="hfa78e7fag5a7fg4bcbg8b13gea9c1f3ea786">Чтобы &lt;font color="70b10e"&gt;прочесть&lt;/font&gt; книгу или записку, найдите ее в меню предметов и "воспользуйтесь" ей.</content>
+	<content contentuid="hf694652eg343fg4be1gb944gf64856a74af4">Чтобы снова &lt;font color="70b10e"&gt;объединить отряд&lt;/font&gt;, сведите вместе портреты персонажей в левом верхнем углу экрана. Между портретами вновь появятся объединяющие &lt;font color="70b10e"&gt;цепи&lt;/font&gt;.</content>
+	<content contentuid="h0ca6a53bg16efg45a7g923bg20138d3928cc">Зиксзакс раскрыл вам тайну &lt;font color="70b10e"&gt;промежуточных алтарей&lt;/font&gt;! С помощью кнопки &lt;font color="70b10e"&gt;Врата разрыва&lt;/font&gt; вы сможете перенестись к любому найденному вами алтарю.</content>
+	<content contentuid="h1447e7f6g2cfbg428eg9a39g89b46aec65e9">Вы открыли меню &lt;font color="70b10e"&gt;путешествий Обители&lt;/font&gt;. Оно работает точно так же, как &lt;font color="70b10e"&gt;Алтарь странствий&lt;/font&gt;. Чтобы телепортироваться в Обитель, &lt;font color="70b10e"&gt;выберите "Конец Времен"&lt;/font&gt;.</content>
+	<content contentuid="ha0e1cbbag851cg4deagace0gd3bd7e5c29d3">Большинство персонажей предпочитает &lt;font color="70b10e"&gt;разговаривать&lt;/font&gt; только с основным героем, а вот &lt;font color="70b10e"&gt;торговать&lt;/font&gt; они могут и с вашими спутниками.</content>
+	<content contentuid="ha26cb589gbefeg4b8ega200g7ce0e1cad70c">&lt;font color="70b10e"&gt;В диалогах&lt;/font&gt;, которые начинаются автоматически, другие персонажи всегда обращаются к вашему основному герою. Если вы начнете диалог от лица одного из спутников, разговор будет вести связанный с ним основной герой.</content>
+	<content contentuid="h45953030g4325g460dga432gf4b3106a9e51">Предметы</content>
+	<content contentuid="h81d01c54gc295g4cf8g8d43ga36869cb7415">Исследование</content>
+	<content contentuid="ha3e9487cgcadcg45ebga79agbb7d6dc8b2cb">Бой</content>
+	<content contentuid="hd7f04fe6g5e9bg4da6g8260g8f6f13ad8727">Задание</content>
+	<content contentuid="h40f92538gcdbfg4fecg9fc3g9b7011405ae1">Общение</content>
+	<content contentuid="h686a0d8ag0fabg46b0g8ba6g307949651e94">Общие сведения</content>
+	<content contentuid="hff3ec461gdc2cg422eg8af0g55d9efe9266b">Чтобы &lt;font color="70b10e"&gt;взять предмет в снаряжение&lt;/font&gt;, перетащите его в подходящую ячейку, открыв инвентарь.</content>
+	<content contentuid="h700cebecg5f2bg4274g957aga5887430b56e">На этой панели указан ваш &lt;font color="70b10e"&gt;текущий уровень&lt;/font&gt; и сколько очков опыта осталось до следующего уровня. Здесь же перечислены &lt;font color="70b10e"&gt;эффекты&lt;/font&gt;, под действием которых находится персонаж. Нажмите [IE_NextObject] или [IE_PrevObject], чтобы перейти к другим таблицам.</content>
+	<content contentuid="hf2bffd7fg5a59g42dagb5fdga230f541055d">На панели &lt;font color="70b10e"&gt;качеств&lt;/font&gt; слева отражены основные качества вашего персонажа, а справа находятся вторичные параметры. Основные качества &lt;font color="70b10e"&gt;непосредственным образом&lt;/font&gt; влияют на вторичные.</content>
+	<content contentuid="hfcf81badg21d9g4587ga449g6d984dc7c72b">Умения определяют, &lt;font color="70b10e"&gt;что может делать&lt;/font&gt; персонаж и как хорошо это у него получается.</content>
+	<content contentuid="h33d62bdag0bd6g4e00g819cgf9e2e9777d3d">&lt;font color="70b10e"&gt;Таланты&lt;/font&gt; определяют уникальные особенности вашего персонажа. Выбирайте таланты, которые будут дополнять и усиливать &lt;font color="70b10e"&gt;умения&lt;/font&gt; и &lt;font color="70b10e"&gt;качества&lt;/font&gt; вашего персонажа.</content>
+	<content contentuid="h037b56eeg3ef3g4bd5g9145g1ad903bad877">Ваш персонаж получает &lt;font color="70b10e"&gt;черты характера&lt;/font&gt;, когда выражает свое &lt;font color="70b10e"&gt;мнение&lt;/font&gt;. Если герой &lt;font color="70b10e"&gt;последователен&lt;/font&gt; в своих решениях, то накопленные очки черт характера смогут &lt;font color="70b10e"&gt;повысить&lt;/font&gt; его качества или умения. Со временем черты характера могут &lt;font color="70b10e"&gt;изменяться&lt;/font&gt;.</content>
+	<content contentuid="h459f991aga3b0g4791g89c8g1f70e6a9bfc8">Это панель &lt;font color="70b10e"&gt;быстрого доступа&lt;/font&gt;. Щелкните по значку навыка, чтобы его &lt;font color="70b10e"&gt;использовать&lt;/font&gt;. Чтобы &lt;font color="70b10e"&gt;отменить&lt;/font&gt; действие, нажмите [IE_ContextMenu]. Перетаскивайте навыки и предметы на панель быстрого доступа, чтобы их было удобнее использовать.</content>
+	<content contentuid="h18f5c970g07f0g4e87g8464gd01bba222fc5">Нажмите [IE_FlashLeftMouse] по врагу, чтобы &lt;font color="70b10e"&gt;атаковать&lt;/font&gt; его. Нажмите [IE_FlashLeftMouse] по земле, чтобы &lt;font color="70b10e"&gt;переместиться&lt;/font&gt;. Не забывайте следить за своими очками действия!</content>
+	<content contentuid="h7701b784g37d2g4c5fgb408g668814d29fe7">Завершите ход, нажав [IE_UIEndTurn]. Оставшиеся ОД можно будет использовать на &lt;font color="70b10e"&gt;следующем ходу&lt;/font&gt;.</content>
+	<content contentuid="h15994f06gf19eg423bg9433g0e391ccd3ff9">У вас появилась &lt;font color="70b10e"&gt;поврежденная вещь&lt;/font&gt;. Найдите ремонтный &lt;font color="70b10e"&gt;молоток&lt;/font&gt;, чтобы починить ее самостоятельно, или &lt;font color="70b10e"&gt;торговца&lt;/font&gt;: он поможет вам с ремонтом.</content>
+	<content contentuid="h56ecda94gd278g462egad54g6ac9a4d10441">Вы нашли &lt;font color="70b10e"&gt;неопознанный предмет&lt;/font&gt;. Чтобы понять, что это, воспользуйтесь &lt;font color="70b10e"&gt;увеличительным стеклом&lt;/font&gt; или заплатите &lt;font color="70b10e"&gt;торговцу&lt;/font&gt;, и он вам поможет с опознанием. Для опознания как вам, так и торговцу нужен определенный уровень умения &lt;font color="70b10e"&gt;Знание легенд&lt;/font&gt;.</content>
+	<content contentuid="h1e04446bg07efg42a7gbba2g15256c24adc2">Если вещь, которая &lt;font color="70b10e"&gt;нужна вам для прохождения&lt;/font&gt;, есть у вашего спутника, она &lt;font color="70b10e"&gt;автоматически&lt;/font&gt; переместится к вам.</content>
+	<content contentuid="h8fb876c6g25ecg45a3gbd7cg6faf59082783">Выделите предмет и нажмите [IE_ControllerContextMenu], чтобы вызвать &lt;font color="70b10e"&gt;меню действия&lt;/font&gt;. Выберите &lt;font color="70b10e"&gt;Переместить&lt;/font&gt; и подтвердите выбор с помощью [IE_Interact].</content>
+	<content contentuid="h25fae2cfgb16eg452fg991bg1185acdc5cda">Вы получили &lt;font color="70b10e"&gt;руну&lt;/font&gt; и теперь можете совершать быстрые перемещения. Нажмите [IE_Pause], чтобы открыть игровое меню, и выберите &lt;font color="70b10e"&gt;Алтарь странствий&lt;/font&gt;, чтобы мгновенно перенестись к &lt;font color="70b10e"&gt;любому доступному&lt;/font&gt; алтарю.</content>
+	<content contentuid="h995c4e32g95c1g410dg975fge5966e42080f">&lt;font color="70b10e"&gt;Зажмите&lt;/font&gt; [IE_PartyManagement] и выберите соратника с помощью [LeftStick]. Нажмите [IE_ActionMenu], чтобы &lt;font color="70b10e"&gt;объединиться с ним&lt;/font&gt;.</content>
+	<content contentuid="h17d97260g6fb0g420dg848eg12a0ad1e14a7">Добро пожаловать в игру Divinity: Original Sin 2! Используйте [LeftStick], чтобы &lt;font color="70b10e"&gt;перемещать&lt;/font&gt; персонажей.</content>
+	<content contentuid="hf7753bbfg6287g4515g984egbe778a90b20d">Зажмите [IE_PartyManagement], с помощью [LeftStick] выделите соратника, а затем нажмите [IE_ActionMenu], чтобы &lt;font color="70b10e"&gt;отделить его от остального отряда&lt;/font&gt;.</content>
+	<content contentuid="h69571064g5985g4a6dg95d4g7cc55b78d1ba">В дневнике появилась &lt;font color="70b10e"&gt;новая информация&lt;/font&gt;. Чтобы ее просмотреть, откройте радиальное меню выбора и выберите &lt;font color="70b10e"&gt;Дневник&lt;/font&gt;.</content>
+	<content contentuid="ha76798f1gb53ag4dd9gb73ag62c112619deb">&lt;font color="70b10e"&gt;Торговать и обмениваться&lt;/font&gt; предметами можно почти со всеми. Нажмите [IE_ActionMenu] во время диалога, чтобы начать обмен.</content>
+	<content contentuid="h8104a397g6977g444aga56fgd7dcb816ae3b">Чтобы &lt;font color="70b10e"&gt;повернуть&lt;/font&gt; камеру вокруг персонажей, используйте [RightStickX]. Чтобы изменить &lt;font color="70b10e"&gt;масштаб&lt;/font&gt;, используйте [RightStickY].</content>
+	<content contentuid="h2bd20c4cg0a22g4c26g9767ga54702b3640c">Чтобы что-либо сделать с предметом, &lt;font color="70b10e"&gt;встаньте к нему лицом&lt;/font&gt; и нажмите [IE_Interact].</content>
+	<content contentuid="hd581eeb0gcd02g4b8egbb4egb23280dff84d">Зажмите [IE_PanelSelect], чтобы открыть &lt;font color="70b10e"&gt;радиальное меню&lt;/font&gt;. Наклоните [LeftStick] в сторону нужной вам панели, чтобы ее открыть.</content>
+	<content contentuid="h239ebde3g79f5g4205g9edbg2c6fcfe24463">Подведите курсор с помощью [LeftStick] к врагу и нажмите [IE_Interact] на земле, чтобы &lt;font color="70b10e"&gt;переместиться&lt;/font&gt;.</content>
+	<content contentuid="hdee76996gc794g422dg9b6fg5f2d3295bccf">&lt;font color="70b10e"&gt;Порядок расположения портретов&lt;/font&gt; показывает, в какой последовательности члены отряда будут действовать в бою.</content>
+	<content contentuid="h9451d752g4635g4ac2g9d38gfea4ff65119a">С помощью [LeftStick] наведите курсор на противника и нажмите [IE_Interact], чтобы &lt;font color="70b10e"&gt;атаковать&lt;/font&gt;.</content>
+	<content contentuid="h058e5f71g7ca2g47a0ga9e1g4358288f698c">Щелкните по врагу, чтобы напасть на него. На любое ваше действие, включая передвижение, тратятся очки действия (ОД).</content>
+	<content contentuid="h7b1db65agc2feg47b2ga779g9fa5f1cea5c2">Это панель &lt;font color="70b10e"&gt;быстрого доступа&lt;/font&gt;. Нажмите [IE_ActionMenu], чтобы открыть или закрыть ее.</content>
+	<content contentuid="h40a99fa5g6b87g4847g89dfg650f4838eb9b">Создание персонажа</content>
+	<content contentuid="h46d09ab1g14c9g40e9gb8a2gbe791ff24e9f">Добро пожаловать! Это экран &lt;font color="70b10e"&gt;создания персонажа&lt;/font&gt;. Выберите одного из &lt;font color="70b10e"&gt;уникальных&lt;/font&gt; персонажей или создайте &lt;font color="70b10e"&gt;своего&lt;/font&gt;. Дайте вашим героям &lt;font color="70b10e"&gt;имена&lt;/font&gt;, настройте их &lt;font color="70b10e"&gt;внешность&lt;/font&gt; и выберите для каждого один из множества &lt;font color="70b10e"&gt;классов&lt;/font&gt;!</content>
+	<content contentuid="hdf85eb7fg03dcg42ebg8a6bg8bacc81f8033">"Характер ИИ" определяет, какие собственные решения будет принимать ваш персонаж. Чтобы принимать все решения за своего героя, выберите пункт "Без ИИ".</content>
+	<content contentuid="hf1e754a2gbd55g44cbga6efg945c47b6a5d9">Характер ИИ</content>
+	<content contentuid="h15d085f6g3747g4876gb512g66d4ce20c436">Используйте [LeftStickX], чтобы переключаться между &lt;font color="70b10e"&gt;стандартными настройками&lt;/font&gt; классов.</content>
+	<content contentuid="h14fba1e4g6ce1g4895g8a43gfdc9b7283e7e">Выбор класса</content>
+	<content contentuid="h5092f040g255bg4f8dga4e1gdccdb3834351">Тонкие настройки характеристик ваших героев стоит менять только в том случае, если вы отлично разбираетесь в &lt;font color="70b10e"&gt;системах и балансе RPG&lt;/font&gt;.</content>
+	<content contentuid="ha8d38b60g6115g4797gb5e8g263bd9cd6521">Изменение персонажа</content>
+	<content contentuid="h1e9b36b9g4d5fg4d0bgbbaage84646ca2d93">&lt;font color="70b10e"&gt;Характер ИИ&lt;/font&gt; определяет, какие &lt;font color="70b10e"&gt;собственные решения &lt;/font&gt; будет принимать ваш персонаж. Чтобы принимать все решения за своего героя, выберите пункт &lt;font color="70b10e"&gt;Без ИИ&lt;/font&gt;.</content>
+	<content contentuid="h6e7fba39gf3a2g479ag981bg8db83ef26130">Основы передвижения</content>
+	<content contentuid="hb5763e5cg57d5g42aag88c7gc83e3ea60940">Зажмите [IE_PanelSelect], чтобы открыть &lt;font color="70b10e"&gt;радиальное меню выбора&lt;/font&gt;. Наклоните [LeftStick] в сторону &lt;font color="70b10e"&gt;окна предметов&lt;/font&gt;, чтобы открыть его. С помощью [LeftStick] наведите курсор на нужную книгу и нажмите [IE_Interact], чтобы ее прочитать.</content>
+	<content contentuid="h75827635geb59g490egb556g895773fa4952">Основы управления камерой</content>
+	<content contentuid="h1680675bgf08ag41b7gb0e2ga78ba445255b">Базовый выбор</content>
+	<content contentuid="h7ed09f92gaf12g461dgb207g49650f329f89">Книги</content>
+	<content contentuid="h8b93f6eeg1735g4320gabddg7f7fd184292a">Бой: порядок ходов</content>
+	<content contentuid="h8be6e79bge97ag4ea4g803eg555149c1d7e3">Атака и Перемещение</content>
+	<content contentuid="h96a1f04cg9ae2g4725gb5c2g21a097cf60d8">Ближний бой</content>
+	<content contentuid="hba89216dga9d3g48a4g8795gfc8c680cb48c">Бой: завершение хода</content>
+	<content contentuid="hfd053f52ga9b0g4e9fgb5deg2061ff31914f">Бой: панель быстрого доступа</content>
+	<content contentuid="hfd510ac8ged9cg43cagbe42g766d13215e73">Бой: удар в спину</content>
+	<content contentuid="h455af782gb7ddg4a77g808cgfb5eb2bce0b7">Талант &lt;font color="70b10e"&gt;Удар в спину&lt;/font&gt; позволяет войти в сектор за спиной вашего противника и атаковать. Успешный удар в спину всегда наносит &lt;font color="70b10e"&gt;критический урон&lt;/font&gt;!</content>
+	<content contentuid="h17574435ge631g443fgbc2cg7a7e82d2168c">Ответные диалоги</content>
+	<content contentuid="hd1d4d447gee1eg468ag8089gb758571ffc7d">Если у вашего товарища по отряду появится над головой &lt;font color="70b10e"&gt;восклицательный знак&lt;/font&gt;, выберите этого персонажа и нажмите [IE_Interact].</content>
+	<content contentuid="h3624ce77gfe3bg4e5bgb73bgea73cc09b11e">Атака предметов</content>
+	<content contentuid="ha5b1fd8agd56bg47b3g9a34gd59d214ac83c">Выделите &lt;font color="70b10e"&gt;сундук&lt;/font&gt; и нажмите [IE_ControllerContextMenu], чтобы вызвать меню действия. Выберите &lt;font color="70b10e"&gt;Атаковать&lt;/font&gt; и подтвердите выбор с помощью [IE_Interact].</content>
+	<content contentuid="hb135db1cgfd4bg47a1gaf52g2ea217b2cd53">Передвижение предметов</content>
+	<content contentuid="hbdb05f9dgbecfg4af0ga9f2g2cc3f46db2a4">Вы можете &lt;font color="70b10e"&gt;передвинуть&lt;/font&gt; предмет с помощью [LeftStick]. Чтобы его &lt;font color="70b10e"&gt;бросить&lt;/font&gt;, нажмите [IE_Interact].</content>
+	<content contentuid="h7ed2c55agd359g4fb1gaa42g05e534b12853">Друг животных</content>
+	<content contentuid="h858729f3g0e14g4c51g890ega6194ba539fe">Подойдите к гробнице и &lt;font color="70b10e"&gt;просмотрите&lt;/font&gt; предметы, лежащие перед вами, с помощью [LeftShoulder] и [RightShoulder].</content>
+	<content contentuid="h15535e05g0d5ag4933ga7ddg30dddb6bfcb4">Дополнительный выбор: выбор по кругу</content>
+	<content contentuid="hc6d8de2egcf2fg4d3egac8ag186d5398edc9">Все вещи, попавшие &lt;font color="70b10e"&gt;в зону поиска&lt;/font&gt;, отмечаются во временном списке. Они рассортированы по важности: от самых важных до мусора.</content>
+	<content contentuid="h026fc3b5gbcdcg4391ga4b6gc45647162025">Дополнительный выбор: активный поиск</content>
+	<content contentuid="hbe7f3143g56cfg4503g8ee5g5e4d79ee8b45">Нажмите [LeftStickPress], чтобы включить или отключить &lt;font color="70b10e"&gt;режим выбора.</content>
+	<content contentuid="hb0398625ge138g475cg8ddcgbb715d0d6b48">Дополнительный выбор: режим курсора</content>
+	<content contentuid="h2af38c2cgf502g485bg92e1g54096362ecd1">Поищите &lt;font color="70b10e"&gt;ключ&lt;/font&gt; от этого сундука. Зажмите [IE_Interact], чтобы создать &lt;font color="70b10e"&gt;область активного поиска&lt;/font&gt;.</content>
+	<content contentuid="h45bdcc3eg4f5cg4694gb73eg612c101eb20d">Замки и ключи</content>
+	<content contentuid="h8f30dc65g4b82g4e02gb4aag4de5ead0e483">Отмычки</content>
+	<content contentuid="h86cf9775ga645g4e65gb963g081a4af74904">Восприятие ловушек и секретов</content>
+	<content contentuid="hc56a2cd7g6224g4820ga198ge68ed45c6091">Заперто</content>
+	<content contentuid="h3f298cb3g2746g4b30ga426g57e49faf4801">Запертые двери</content>
+	<content contentuid="h337be5c5gfed0g4b71ga7ccg4f8a54521e61">Огненная поверхность</content>
+	<content contentuid="hcb5c4095g0b0cg4baeg8b74g37470a32db63">Ядовитое облако</content>
+	<content contentuid="h181c9e60g5f5bg4345gb0a5gc3cf5519ba99">Ловушки: ямы с газом</content>
+	<content contentuid="h3259019cge86cg4d1fgbff8g448090046226">Зажмите [IE_PanelSelect] и наклоните [LeftStick] в сторону панели &lt;font color="70b10e"&gt;снаряжения&lt;/font&gt;, чтобы ее открыть.</content>
+	<content contentuid="hda216fefg2001g47d4g969bga0b54c4ec06e">Снаряжение</content>
+	<content contentuid="h5af823a6g8098g43d5g8f11g9e99a9fa4f7e">&lt;font color="70b10e"&gt;Перетягивайте&lt;/font&gt; зелья, свитки и специальные стрелы из меню предметов на панель быстрого доступа: оттуда их будет удобнее доставать. Кроме того, на панели быстрого доступа можно размещать &lt;font color="70b10e"&gt;навыки&lt;/font&gt;.</content>
+	<content contentuid="h369aca63g99e3g4f7fgb260g87b8f8f31d5c">Нажмите [IE_ActionMenu], чтобы открыть меню быстрого доступа, наведите курсор на &lt;font color="70b10e"&gt;пустую&lt;/font&gt; ячейку и нажмите [IE_ControllerContextMenu].</content>
+	<content contentuid="he7521ab2gf901g4c1dgb51cgc6651f711feb">Изменение меню быстрого доступа</content>
+	<content contentuid="h40a96a49gc476g4740g8341gf9b75f3b16ee">Скрытное перемещение</content>
+	<content contentuid="h5378b994gdd6eg4750gb0d0gcedffc1cdc31">Скрытная атака</content>
+	<content contentuid="he414ed16ge5fdg458egaa12ga5cc9226ff34">Ловушки: нажимные плиты</content>
+	<content contentuid="h31c35131g2c9eg4d8dg92f6gdf773b2491ff">Подойдите к столу в углу и возьмите все ремесленные компоненты.</content>
+	<content contentuid="h58ff513dgfaeag4de8gadb2gf57f6751b712">Подойдите к столу и удерживайте [IE_Interact] для выполения активного поиска. После чего, соберите все предметы со стола, нажав [IE_Interact].</content>
+	<content contentuid="h9d0ba738g6db4g43b4gac05g864de7d1b249">Ремесло</content>
+	<content contentuid="hf87fbca3gf364g4b4bgbd38g6a65c293cab1">Выберите предмет и нажмите [IE_Interact], чтобы добавить его в ячейку для объединения. Когда обе ячейки будут заняты, зажмите [IE_Interact], чтобы &lt;font color="70b10e"&gt;объединить предметы&lt;/font&gt;.</content>
+	<content contentuid="hc81ae992g0ba4g47fbg802fg980b726d64b8">Панель создания предметов</content>
+	<content contentuid="hca420e87gb2b2g4e9bgbd21g8c2df851c027">Новые члены отряда</content>
+	<content contentuid="h91c9ec02ga0e9g4bb0g8b93g92e9220b4210">&lt;font color="70b10e"&gt;Переключайтесь&lt;/font&gt; между членами отряда, щелкая по соответствующим портретам. Портрет персонажа, которым вы управляете, выделен золотой подсветкой.</content>
+	<content contentuid="h9e204f5cg2c08g4311g8f40g5529726e91fa">Зажмите [IE_PartyManagement] и с помощью [LeftStick] выберите члена отряда, &lt;font color="70b10e"&gt;за которого хотите играть&lt;/font&gt;. Кроме того, вы можете выбрать игрового персонажа, открыв окно предметов.</content>
+	<content contentuid="hfc14ddeag83f8g48dfgb085gdc1d305204ed">Переключение на других членов отряда</content>
+	<content contentuid="h3cc2431eg39e5g4b48gaeb1g92c11507fc2e">Разделение отряда</content>
+	<content contentuid="h19cbb456g5bb0g4528gb2edgd621ab773793">Очарование, устрашение и убеждение</content>
+	<content contentuid="hd8806199g57e1g438bgbfc6g166022a10bb3">Убедите этого персонажа изменить свое мнение с помощью &lt;font color="70b10e"&gt;очарования&lt;/font&gt;, &lt;font color="70b10e"&gt;устрашения&lt;/font&gt; или &lt;font color="70b10e"&gt;убеждения&lt;/font&gt;. При достаточно высоком уровне &lt;font color="70b10e"&gt;восприятия&lt;/font&gt; в скобках вы увидите, какой вариант будет &lt;font color="70b10e"&gt;наиболее действенным&lt;/font&gt;.</content>
+	<content contentuid="hc91f1fbaga483g4585g87c7g69e4b927257a">Очарование, устрашение, убеждение: персонажи</content>
+	<content contentuid="h5ed7a9adgbd72g4215gb883g041cc146a9cc">Лопаты</content>
+	<content contentuid="hbc841a39g3793g4ea2g99ffgbfffa6669d08">Промежуточные алтари</content>
+	<content contentuid="h56beb6f9g4ea0g4957g89d1gc9824e076c9a">Кучи земли</content>
+	<content contentuid="hca5518cdg6fdeg4414g9909ga88c06956f13">Смерть</content>
+	<content contentuid="hde8a1a9cge045g4d89ga454g5586f6798afb">Бой: изучение противника</content>
+	<content contentuid="h83153759ge7a0g4db7gac47gd1096f9a5838">Выбелите противника, нажмите [IE_ControllerContextMenu] и выберите &lt;font color="70b10e"&gt;Осмотреть&lt;/font&gt;. Чем выше ваш навык &lt;font color="70b10e"&gt;Знание легенд&lt;/font&gt;, тем больше вы узнаете.</content>
+	<content contentuid="h26e8fd5dg42b0g4d12gb781g01de4df52361">Зелье</content>
+	<content contentuid="h601b7aaag26edg402cga4afg5450ee21b845">Умения</content>
+	<content contentuid="h3c80e760g45fdg4b7bg85a1g12aa92ac6449">Качества</content>
+	<content contentuid="h9f62a587g053cg4c58g8ecbg8c2b55dab33a">Статистика: обзор</content>
+	<content contentuid="hb4a0924cge8feg4c20gbdc0g65a30c6f869e">Таланты</content>
+	<content contentuid="h6f9a366bge470g4f52gbc14g6b0b1c108b21">Харатктер</content>
+	<content contentuid="haecb48d9g83d8g4a34g9ac9geac6c5072d9d">Просмотрите все таблицы и используйте &lt;font color="70b10e"&gt;все доступные очки&lt;/font&gt;, чтобы сделать вашего персонажа &lt;font color="70b10e"&gt;сильнее&lt;/font&gt;.</content>
+	<content contentuid="h2cf8844ag170dg4ca4ga672g3c9e95d0ddc5">Новый уровень</content>
+	<content contentuid="hf900c28cgf7d1g4e2dg9ccag1ebd465fe1e0">Дневник</content>
+	<content contentuid="h3019886cgcbeag47a3gb8fbg95946742943b">Нажмите [IE_ToggleMap], чтобы открыть &lt;font color="70b10e"&gt;карту&lt;/font&gt;. Некоторые важные персонажи могут оставлять на вашей карте пометки.</content>
+	<content contentuid="hb6aa172eg498cg490cgbba3g25908972d0d5">Карта</content>
+	<content contentuid="he71c99f7g66e8g4b32g9211ga377c0f8628e">Торговля</content>
+	<content contentuid="h8eaf2cf6gd6f1g4650g968ag7539d9274491">Статистика</content>
+	<content contentuid="hfaeece81gd56dg4f18gabd9gb2bdc0aef855">Торговля</content>
+	<content contentuid="hdb9cffb7g12fcg4864g8716g4c81ff839513">&lt;font color="70b10e"&gt;Перетаскивайте предметы&lt;/font&gt;, которые вы хотите купить или продать, в окно &lt;font color="70b10e"&gt;сделки&lt;/font&gt;. Чтобы &lt;font color="70b10e"&gt;уравнять предложение&lt;/font&gt;, щелкните по кнопке с весами. Чтобы подтвердить сделку, нажмите &lt;font color="70b10e"&gt;синюю&lt;/font&gt; кнопку посередине. Торговцы, кроме того, могут &lt;font color="70b10e"&gt;опознавать и чинить&lt;/font&gt; ваши вещи.</content>
+	<content contentuid="h1e5fb6a9g9b82g45b3ga1b0ga8125d721f90">Торговля: введение</content>
+	<content contentuid="h94f0a15bg8253g43e5ga2a0g88327818a168">&lt;font color="70b10e"&gt;Звезда&lt;/font&gt; справа вверху показывает, как торговец к вам относится. Чем лучше его отношение, тем ниже для вас будут цены в его лавке. Можно &lt;font color="70b10e"&gt;завоевать расположение торговца&lt;/font&gt;, подарив тому какую-нибудь вещь или золото.</content>
+	<content contentuid="hf931b721g34e4g4701gbf4bg3f68b4c31dc2">Торговля: отношение</content>
+	<content contentuid="h7725773fg42b1g4afcga8a3g1bd6e3ee192a">&lt;font color="70b10e"&gt;Окно предметов&lt;/font&gt; у торговцев &lt;font color="70b10e"&gt;обновляется&lt;/font&gt; каждый раз, когда вы получаете новый уровень. Не забывайте проверять новые товары!</content>
+	<content contentuid="h856efe78gd0f2g4766gbb9egd7764600c807">Торговля: покупка</content>
+	<content contentuid="h8f6c8de9g2b70g4165ga7d4g8ff1d1f6791d">Помните: &lt;font color="70b10e"&gt;запас золота&lt;/font&gt; у торговцев ограничен, и пополняют они его только тогда, когда вы получаете новый уровень.</content>
+	<content contentuid="h4203ada1g5147g42b5gaa0dg16131fb64525">Торговля: продажа</content>
+	<content contentuid="hb2cecbc2g6246g4ff7gb940g24290a8ae335">Чтобы добиться расположения другого персонажа, вы можете сделать ему &lt;font color="70b10e"&gt;подарок&lt;/font&gt;. Этот прием особенно полезен, если окружающие &lt;font color="70b10e"&gt;отказываются с вами разговаривать&lt;/font&gt;.</content>
+	<content contentuid="ha013df18g9f19g40beg9c90g8da538d7fc07">Торговля: подарки</content>
+	<content contentuid="hafac485fg9e06g42bbgaeb6g58ee719ae60c">Нажмите [IE_Interact], чтобы добавить или убрать предмет который вы хотите обменять. Чтобы уравнять предложение, нажмите [IE_ControllerContextMenu], а затем подтвердите сделку, зажав [IE_Interact]. Помните: никто не станет отдавать вам свои вещи за просто так.</content>
+	<content contentuid="hdeb644e4g3e79g4e0ega4fcg22efdbf41628">Торговля: обмен</content>
+	<content contentuid="h66cefcd2g4369g4ebdg9565g83fc9738c9b4">Вы смогли открыть &lt;font color="70b10e"&gt;зал героев&lt;/font&gt;. Здесь будут отдыхать спутники, которым вы прикажете покинуть ваш отряд.</content>
+	<content contentuid="h0bed5fb4gbde4g4f58g8fdag9b9a122992da">Вы нашли &lt;font color="70b10e"&gt;отмычку&lt;/font&gt;! Чтобы взломать замок, используйте отмычку, а затем выберите предмет, который вы пытаетесь открыть.</content>
+	<content contentuid="h718e0d67g60d1g4c88g98eegf664ee49c065">&lt;font color="70b10e"&gt;Впереди мина!&lt;/font&gt; Взорвите ее, &lt;font color="70b10e"&gt;выстрелив&lt;/font&gt; в нее издалека или &lt;font color="70b10e"&gt;уронив&lt;/font&gt; на нее что-нибудь тяжелое.</content>
+	<content contentuid="hcb351132g0007g412agb792gd33c3b078f6e">Зажмите [IE_DestructionToggle] и &lt;font color="70b10e"&gt;щелкните&lt;/font&gt; по двери, чтобы атаковать ее.</content>
+	<content contentuid="hac38e1d6ga589g4891gb46dg5dcff575cb6c">Объединив некоторые предметы, вы можете получить нечто &lt;font color="70b10e"&gt;новое&lt;/font&gt;. Для этого откройте меню предметов и перетяните одну вещь на другую. Соедините молоток с кастрюлей, &lt;font color="70b10e"&gt;чтобы создать шлем&lt;/font&gt;.</content>
+	<content contentuid="h23b8450fgcd57g486fg8f22g81c1de10945f">Вы нашли &lt;font color="70b10e"&gt;ремонтный молоток&lt;/font&gt;! С его помощью, если вы достаточно сведущи в &lt;font color="70b10e"&gt;кузнечном деле&lt;/font&gt;, вы сможете чинить снаряжение. Нажмите [IE_ContextMenu] на &lt;font color="70b10e"&gt;сломанном&lt;/font&gt; предмете и выберите "Починить".</content>
+	<content contentuid="hde0b6c08g84aag4d01g81f0g6fb72e073a90">Вы нашли &lt;font color="70b10e"&gt;увеличительное стекло&lt;/font&gt;! Если у вас достаточно хорошо развито умение &lt;font color="70b10e"&gt;Знание легенд&lt;/font&gt;, то с помощью этого предмета вы сможете опознавать вещи. Нажмите [IE_ContextMenu] на &lt;font color="70b10e"&gt;неопознанном предмете&lt;/font&gt; и выберите "Опознать".</content>
+	<content contentuid="h8ebe219ag1724g466cg858fgb50b7e415a1b">У вас &lt;font color="70b10e"&gt;новый уровень&lt;/font&gt;! Нажмите [IE_ToggleInventory], чтобы открыть окно персонажа и &lt;font color="70b10e"&gt;улучшить&lt;/font&gt; его качества и способности.</content>
+	<content contentuid="hdc7b2117g3e8dg4e90g8d7bgd700f669d13c">Вы оказались в непростой ситуации. Если хотите, попробуйте &lt;font color="70b10e"&gt;сбежать&lt;/font&gt;.</content>
+	<content contentuid="h359c6888g3bf7g4f83g86f3g36c88c6b3a3b">Вы нашли книгу навыка! Прочтите ее, чтобы освоить новый навык.</content>
+	<content contentuid="h064ae241g591ag4544ga688g4b97d16d7789">Здесь лежит первый ученик мастера Рейджкина, раздавленный трупом.</content>
+	<content contentuid="h0c07eb01g84eeg4937gaa1agd55dbde09f46">Здесь лежит второй ученик мастера Рейджкина, убитый смертью.</content>
+	<content contentuid="h45f5c03bgbf12g431dg89d1g73c076c01e4b">Вы нашли &lt;font color="70b10e"&gt;магический свиток&lt;/font&gt;! Свитки позволят вам применять заклинания, которыми вы не владеете.</content>
+	<content contentuid="h66d55a50g471dg4db7g94a8g17104e286ed0">Вы нашли &lt;font color="70b10e"&gt;саперный набор&lt;/font&gt;! Чтобы &lt;font color="70b10e"&gt;обезвредить ловушку&lt;/font&gt;, сначала используйте набор, а затем выберите мину.</content>
+	<content contentuid="h164edc34g94fbg4957ga636gbfbdea39fc72">Чтобы &lt;font color="70b10e"&gt;убедить собеседника&lt;/font&gt;, выиграйте несколько раундов игры &lt;font color="70b10e"&gt;Камень, ножницы, бумага&lt;/font&gt;. Чтобы получить преимущество в этой игре, развивайте обаяние. Нажмите [IE_UIEndTurn], чтобы &lt;font color="70b10e"&gt;пропустить&lt;/font&gt; игру.</content>
+	<content contentuid="h9ced60c9gaeeag45eegbcd4g0c96d68e6239">Вы освоили новый навык! Нажмите [IE_ToggleSkills], чтобы открыть книгу навыков.</content>
+	<content contentuid="hd77013c9g2ceag45fbgb887gf39e31409095">Изменить сложность можно в разделе "Игра" меню параметров.</content>
+	<content contentuid="h89071471g186dg4ac1g9143g5ab5598f29b9">Меню предметов &lt;font color="70b10e"&gt;контейнера&lt;/font&gt; можно &lt;font color="70b10e"&gt;перетягивать&lt;/font&gt; с места на место с помощью [IE_FlashLeftMouse].</content>
+	<content contentuid="h10066600g43e4g46acgb8a2g53d7ee5bae9b">Чтобы &lt;font color="70b10e"&gt;разделить&lt;/font&gt; отряд, разведите в стороны портреты персонажей в левом верхнем углу экрана, разорвав соединяющие их цепи. Чтобы &lt;font color="70b10e"&gt;создать группу&lt;/font&gt;, сведите вместе портреты нужных персонажей.</content>
+	<content contentuid="ha3e8f0d8g98afg49fdg800bg457c2095b9de">Орден искателей Источника: краткая история&lt;br&gt;&lt;br&gt;В далеком прошлом маги Источника служили добру и свету, но когда Источник был осквернен, они превратились в злодеев. Величайший из них, король Бракк, развязал такую войну, что весь Ривеллон оказался на грани гибели.&lt;br&gt;&lt;br&gt;Чтобы спасти мир, мудрецы из Совета семи основали орден, в который вошли опытные воители, специально обученные бороться с черной магией Источника.&lt;br&gt;&lt;br&gt;Победа над Бракком стала началом славной истории ордена искателей Источника. С тех пор мы уничтожаем черных магов одного за другим, чтобы в конце концов полностью избавить Ривеллон от этой угрозы.&lt;br&gt;&lt;br&gt;Как распознать Источник&lt;br&gt;&lt;br&gt;В отличие от других видов магии, Источник очень трудно обнаружить. За долгие годы учебы маги вырабатывают на него особое чутье, подобное тому, которое позволяет лекарю распознать тончайший запах яда, а воину - услышать тихий шорох клинка, извлекаемого из ножен.&lt;br&gt;&lt;br&gt;Сила Источника может передаваться через различные предметы - например, оружие, драгоценные камни и металлы. При этом она ведет себя непредсказуемо и может как наносить непоправимый ущерб, так и творить чудеса исцеления.&lt;br&gt;&lt;br&gt;Методы работы ордена&lt;br&gt;&lt;br&gt;В нашей работе ум и смекалка не менее важны, чем сила и ловкость. Опытный искатель Источника тщательно анализирует все доступные факты, не пропуская ни одной улики и опрашивая всех возможных свидетелей.&lt;br&gt;&lt;br&gt;Помните: неразрешимых задач не бывает. Если вам не удается разгадать какую-то тайну, отметьте ее на карте и вернитесь к ней, когда получите новые знания и силы. &lt;br&gt;&lt;br&gt;Для искателя Источника нет ничего невозможного. Он может узнать любой секрет, победить любого врага и разгадать любую загадку.&lt;br&gt;</content>
+	<content contentuid="h328be6dcgd75fg4228gb036gc31669b8a507">Откройте &lt;font color="70b10e"&gt;радиальное меню отряда&lt;/font&gt;, выделите члена отряда и нажмите [IE_Interact], чтобы его выбрать. Затем таким же образом выберите второго члена отряда и нажмите [IE_ActionMenu], чтобы объединить их в группу.</content>
+	<content contentuid="hb9b8c624g27feg44d5ga588ga8a62bb1eb65">Похоже, битва складывается не в вашу пользу. Вы можете сбежать из боя. Для этого нажмите соответствующую кнопку на панели быстрого доступа или выберите "Бегство" на панели навыков.</content>
+	<content contentuid="habe43afbg1057g43e8g93e6g3ca5886e5a58">Откройте меню предметов и выберите ингредиент. Затем нажмите [IE_ControllerContextMenu] и выберите "Объединить".</content>
+	<content contentuid="h2ab73660gd263g4572gb636gab62fb4751f4">У вас &lt;font color="70b10e"&gt;новый навык&lt;/font&gt;! Откройте панель навыков, чтобы узнать о нем больше. Активировать навыки можно непосредственно на панели навыков. Кроме того, вы можете перенести навык на панель быстрого доступа.</content>
+	<content contentuid="h019a81f1gc1b6g4d3ag810dgbde4082fc56b">Книга навыка</content>
+	<content contentuid="h2e429135g51e6g4e04g8459g7e46500012a8">Магические свитки</content>
+	<content contentuid="h1d6bb222g95f0g4c5ega085gdf08bd3f774b">Ловушки: мины</content>
+	<content contentuid="h8f83802fg5ab2g4483g8289g9bf293b23777">Взлом</content>
+	<content contentuid="h7b1585d1gb5fcg42d7ga0edg572dd83bb031">Чтобы взломать замок, выберите запертый предмет и вызовите меню действия с помощью [IE_ControllerContextMenu]. Затем выберите "Взломать".</content>
+	<content contentuid="h8a20d31eg82a7g40beg8c70g38643b162710">Режим атаки</content>
+	<content contentuid="hcf8bbca8g3260g43c9g86bag4930c0f42884">Нажмите [IE_DestructionToggle] и наведите курсор на дверь, а затем &lt;font color="70b10e"&gt;атакуйте&lt;/font&gt; ее при помощи [IE_Interact].</content>
+	<content contentuid="h4e45fa93gd315g4df5ga8f0g2f26e33e271a">Откройте панель &lt;font color="70b10e"&gt;предметов&lt;/font&gt;, выберите нужный и нажмите [IE_Interact], чтобы им воспользоваться.</content>
+	<content contentuid="he0912d01g52a7g4cb7gbaf6g122e27419e02">Откройте &lt;font color="70b10e"&gt;меню предметов&lt;/font&gt; и дважды щелкните по свитку, чтобы им воспользоваться.</content>
+	<content contentuid="h4d8988ddg2a8dg4755g9780g643b95221092">Использование свитков</content>
+	<content contentuid="h98a98197gab24g441bg861age735119cbd52">Саперный набор</content>
+	<content contentuid="h4c27a6e9g4fe5g4feeg9874g51628109d0d2">Выделите &lt;font color="70b10e"&gt;ловушку&lt;/font&gt;, нажмите [IE_ControllerContextMenu] и выберите &lt;font color="70b10e"&gt;Обезвредить&lt;/font&gt;.</content>
+	<content contentuid="h9998abfcgaa1fg4dd8ga6d5g827b6e50c2f9">Сочетания при создании предметов</content>
+	<content contentuid="he3ec576dg8beag410dg8e8eg219ba47ef613">Камень-ножницы-бумага</content>
+	<content contentuid="ha2a33b52g4d9cg48bega81ag073c5950bd83">Бегство из боя</content>
+	<content contentuid="ha8e7fe5dgf627g4fc5gbd2dg4f239fa4980a">У вашего персонажа &lt;font color="70b10e"&gt;новый уровень&lt;/font&gt;! Откройте &lt;font color="70b10e"&gt;радиальное меню&lt;/font&gt; и выберите персонажа с новым уровнем, чтобы &lt;font color="70b10e"&gt;распределить полученные очки&lt;/font&gt;.</content>
+	<content contentuid="h7e7ea743g3e19g40a5ga52fg95ee4bf03efa">Новый уровень</content>
+	<content contentuid="h1bcbf8f7g336ag4925gb742gf3d2475c74aa">Выбор режима</content>
+	<content contentuid="h662c22f9g596bg4600g853cg11b84eceb85d">Не берите и не трогайте &lt;font color="70b10e"&gt;чужое имущество&lt;/font&gt;! Его владельцы непременно расстроятся и станут хуже к вам относиться. Если вы зайдете слишком далеко, они позовут на помощь стражу.</content>
+	<content contentuid="h653fe6bfg9bf9g4c0bgbe2fg051c43bdf9ca">Системы поведения</content>
+	<content contentuid="h0322e658g38dfg4ab6gac8fgce37989cc7dd">Войдите в режим &lt;font color="70b10e"&gt;скрытного перемещения&lt;/font&gt;, чтобы &lt;font color="70b10e"&gt;украсть&lt;/font&gt; чужую вещь, пока ее хозяин вас не замечает.</content>
+	<content contentuid="he0c854cegdfe9g4348gb351g20c78e57360f">Кража</content>
+	<content contentuid="h0a2c722ag8d6ag426cgaccega7dc6f380781">Хотите &lt;font color="70b10e"&gt;пошарить&lt;/font&gt; по чужим &lt;font color="70b10e"&gt;карманам&lt;/font&gt;? Войдите в &lt;font color="70b10e"&gt;скрытный режим&lt;/font&gt;, подберитесь к жертве &lt;font color="70b10e"&gt;сзади&lt;/font&gt; и попробуйте ее &lt;font color="70b10e"&gt;обобрать&lt;/font&gt;.</content>
+	<content contentuid="h285c0c44g7cf1g43deg8ec7g6d6e9b7deba0">Воровство</content>
+	<content contentuid="h28d1058egaf11g4e7dgbe81g390a9121da49">Дополнительно: новые члены отряда</content>
+	<content contentuid="h8479b700gb8b8g41fdgb7b1gde6f9cf528c4">Диалоги со спутниками</content>
+	<content contentuid="h5335262fgeb4eg4009gab5bg0e8b4c0d2b88">В некоторых диалогах вашему герою придется выразить собственное мнение, что скажется на его &lt;font color="70b10e"&gt;характере&lt;/font&gt;. Черты характера могут &lt;font color="70b10e"&gt;усилить качества и способности&lt;/font&gt; персонажа. Со временем они могут изменяться.</content>
+	<content contentuid="hf71bccaagf0d6g4005gbe73gccbf4a166bd4">Диалоги, определяющие черты характера</content>
+	<content contentuid="h01a0f5b3g780eg4315g9525g1bafd4b99e6d">Обмен со спутниками</content>
+	<content contentuid="h0160b35ag32e7g4e88ga2adgbe4ae9bef510">Вы &lt;font color="70b10e"&gt;обнаружили&lt;/font&gt; &lt;font color="70b10e"&gt;потенциальное&lt;/font&gt; сочетание &lt;font color="70b10e"&gt;предметов&lt;/font&gt;, но &lt;font color="70b10e"&gt;ваших способностей недостаточно&lt;/font&gt;&lt;font color="70b10e"&gt;&lt;/font&gt;, чтобы &lt;font color="70b10e"&gt;объединить&lt;/font&gt; предметы.</content>
+	<content contentuid="h7928d401g076dg4b95gbe5dg0fbe391a4dae">Не хватает навыков создания предметов</content>
+	<content contentuid="hcd60d586g9bc5g4a40ga876g8606a035040e">Прочность</content>
+	<content contentuid="ha315f2ebg4653g416ega532gefbf2552913e">Выберите в меню предметов &lt;font color="70b10e"&gt;сломанную&lt;/font&gt; вещь и нажмите [IE_ControllerContextMenu]. Выберите &lt;font color="70b10e"&gt;Ремонт&lt;/font&gt; в меню действия, чтобы приступить к починке.</content>
+	<content contentuid="h6f18aba1g0603g49bdgb5e8gf64f278b3207">Ремонтный молоток</content>
+	<content contentuid="h5a68d2aag153eg4dcegb23fg08d1036bf58e">Обитель в Конце Времен</content>
+	<content contentuid="h6609c55bg8c1eg4ceeg8b30gdc425f8cbf9c">Руна перемещения через Алтари странствий</content>
+	<content contentuid="hc3aa626cg0eb3g44c7g992bgf8de7b8a6566">Новые комнаты</content>
+	<content contentuid="h2a53c593gc85bg4a82g879ag44b413f2fe4d">Выберите в меню предметов &lt;font color="70b10e"&gt;неопознанную&lt;/font&gt; вещь и нажмите [IE_ControllerContextMenu]. Выберите &lt;font color="70b10e"&gt;Опознать&lt;/font&gt; в меню действия, чтобы попытаться понять, что это за вещь.</content>
+	<content contentuid="h1de1a19cg38c6g4574gb27fgaea5bc429f53">Увеличительное стекло</content>
+	<content contentuid="ha58e972fgfbc2g4ac9gafccgf9a9e1967684">Волшебные карманы</content>
+	<content contentuid="hec07377dge5c1g429cg8e72gff88c20f4ba9">Не забывайте сохраняться перед опасными участками пути. Нажмите [IE_ToggleInGameMenu], чтобы открыть игровое меню, а затем нажмите "Быстрое сохранение".</content>
+	<content contentuid="hf67794c4g5917g446fgb32fgec2f7fd5d876">Сохранение игры</content>
+	<content contentuid="hb41e8b85gb7fdg42b7gbea8g6a74170a66ed">Панель навыков</content>
+	<content contentuid="h5687c81bg49e2g4462gb498g35a8ab8e5541">Чтобы &lt;font color="70b10e"&gt;просмотреть&lt;/font&gt; все подсказки обучения, войдите в "Дневник" и откройте закладку &lt;font color="70b10e"&gt;Обучение&lt;/font&gt;.</content>
+	<content contentuid="h57dec3a6gcdfdg423agaaefgcf2730df248a">Обучение</content>
+	<content contentuid="h90f0f170gd799g48b4g9dacge15dbc2f1ab8">Неопознанные предметы</content>
+	<content contentuid="h232cdc3eg736ag4fc8g9554g860c3242c030">Если в слишком &lt;font color="70b10e"&gt;много врагов&lt;/font&gt; скопилось в одном месте, вы можете включить &lt;font color="70b10e"&gt;режим тактической камеры&lt;/font&gt; (вид сверху вниз), нажав [IE_ToggleTacticalCamera]. В настройках игры вы можете изменить параметр "Боевые события" для того, чтобы улучшить ясность боевого поля.</content>
+	<content contentuid="hc737b629gd92ag43a1gaeacg0c1560026b5e">Тактический обзор</content>
+	<content contentuid="h1d90534cg436dg4990gb8f8gc1bd6626b9fe">На верхней планке &lt;font color="70b10e"&gt;панели быстрого доступа&lt;/font&gt; не осталось &lt;font color="70b10e"&gt;места&lt;/font&gt;. Нажимайте [IE_NextObject] или [IE_PrevObject], чтобы &lt;font color="70b10e"&gt;переключаться&lt;/font&gt; между планками &lt;font color="70b10e"&gt;панели быстрого доступа&lt;/font&gt;.</content>
+	<content contentuid="h39ed2276g3345g4859gbf10g328a43f54e19">Панели меню горячего доступа</content>
+	<content contentuid="hec63ee0bg53f6g4336gad7ag2ecd77e0e554">&lt;font color="70b10e"&gt;Жезлы&lt;/font&gt; - это особый вид оружия. Они наносят обычный урон, а кроме того, у каждого есть особый навык. Сведения о навыке жезла вы можете также получить в разделе &lt;font color="70b10e"&gt;Снаряжение&lt;/font&gt; в окне навыков. Как только вы возьмете жезл в снаряжение, его навык автоматически появится &lt;font color="70b10e"&gt;на панели быстрого доступа&lt;/font&gt;.</content>
+	<content contentuid="hb135e047g6d81g4e68gb805g355316f12982">Жезлы</content>
+	<content contentuid="h6f94718dgf804g43e1gbd56gfa672d36fd3f">Нажмите [RightStickPress], чтобы включить или отключить &lt;font color="70b10e"&gt;подсказки&lt;/font&gt; о мире игры.</content>
+	<content contentuid="h3f80f904g6395g4982g97a0g20e4fda43383">Подсказки</content>
+	<content contentuid="h84065c82g719fg4067g83a9g2769797d2246">Вы получили &lt;font color="70b10e"&gt;телепортационные пирамиды&lt;/font&gt;. Пары таких пирамид объединены неразрывной связью. Откройте меню предметов и воспользуйтесь одной пирамидой, чтобы &lt;font color="70b10e"&gt;телепортироваться&lt;/font&gt; ко второй.</content>
+	<content contentuid="hf1a7ae41ge3c0g4cf5gbc91g20d32e8178fe">Телепортационные пирамиды</content>
+	<content contentuid="h4a2df2c2g5e14g4eecg9c3bg386ef5d8eaa4">Если вы воспользуетесь &lt;font color="70b10e"&gt;пирамидой&lt;/font&gt;, лежащей на полу, то вы перенесетесь без нее. Чтобы взять ее с собой, поднимите ее и лишь затем - используйте.</content>
+	<content contentuid="h2904b7bfg2582g4f62g8c4ag1c14a98c6817">Телепортационные пирамиды</content>
+	<content contentuid="h160994ddgfa6bg4ea0ga5cbg4a6f6b35bd4b">Вы вошли в режим &lt;font color="70b10e"&gt;разделенного экрана&lt;/font&gt;! Оба игрока сохранят &lt;font color="70b10e"&gt;полную свободу действий&lt;/font&gt; и смогут управлять &lt;font color="70b10e"&gt;камерой&lt;/font&gt; по отдельности.</content>
+	<content contentuid="h97e11e65g7698g4a2bg8d5cge00dbea8d5df">Разделенный экран</content>
+	<content contentuid="h31c84491g1814g47e7g87c9g181008339322">Нажмите [IE_ToggleInGameMenu] и выберите &lt;font color="70b10e"&gt;Передать персонажа&lt;/font&gt;.</content>
+	<content contentuid="h823fba34g4c94g4e19g96b9g258c33fa8db9">Как передать персонажа другому игроку</content>
+	<content contentuid="h1c82ac69g9aa1g4c6dg956fgd5c087dba9f4">&lt;font color="70b10e"&gt;Выберите&lt;/font&gt; персонажа и нажмите [IE_Interact], чтобы &lt;font color="70b10e"&gt;передать его&lt;/font&gt; под управление другого игрока.</content>
+	<content contentuid="h1408516dg6920g4ddcgb3a0g7cb11c2f1342">Управление персонажами</content>
+	<content contentuid="hdd19e04dg8bddg4d7eg9099gc7b37478e94b">У вас &lt;font color="70b10e"&gt;слишком много вещей&lt;/font&gt;! Выкиньте хоть что-нибудь, и ваш герой &lt;font color="70b10e"&gt;снова сможет бегать&lt;/font&gt;.</content>
+	<content contentuid="hbe62cb28gac49g4961gaa28gd9326d4a7c13">Перегрузка</content>
+	<content contentuid="h49dc63b9gebbbg44b6g89d1g387a416feb06">Перемещение препятствий</content>
+	<content contentuid="h39de103eg71d7g4420ga7a6g676ab51b6858">Зал Героев</content>
+	<content contentuid="h86594954g265bg4cf1gbb61g9839cceb73f9">Это окно вашего &lt;font color="70b10e"&gt;снаряжения&lt;/font&gt;. Выберите слот и нажмите [IE_UIAccept] для того, чтобы просмотреть доступное снаряжение в инвентаре.</content>
+	<content contentuid="h404d59e0g1c80g4cc1ga2b2g6db6e310b303">Снаряжение</content>
+	<content contentuid="h5bc5b028gf6e6g4e45gb69bg9f767ce55887">Это ваш &lt;font color="70b10e"&gt;инвентарь&lt;/font&gt;! Все, что вы &lt;font color="70b10e"&gt;подбираете&lt;/font&gt;, хранится здесь. Нажмите [IE_ContextMenu] на предмет в вашем инвентаре, чтобы &lt;font color="70b10e"&gt;узнать&lt;/font&gt;, что вы можете с ним сделать.</content>
+	<content contentuid="h39df0651gc26ag4f34gba99g152f00e3e278">Инвентарь</content>
+	<content contentuid="hc11c6680g75cag425aga320g008cd299917f">Для хранения гранат, стрел и зелий, вы можете использовать рюкзак. Просто поместите его на панель быстрого доступа для более удобного использования.</content>
+	<content contentuid="h36746aa6g7077g4c80g8cf9gdfa75b31d579">Рюкзак</content>
+	<content contentuid="h68544f7fg491dg4273g9bc4gbe9ac2996298">Опция &lt;font color="70b10e"&gt;"Взять в руку"&lt;/font&gt; позволяет вам перемещать предметы внутрь контейнеров. Выделите объект, нажмите [IE_ControllerContextMenu] и выберите 'Взять в руку'. Переместите курсор на контейнер и нажмите [IE_UIAccept], чтобы оставить объект там.</content>
+	<content contentuid="h5368ce79g1bc9g4698g9bf3g47df36668e40">Взять в руку</content>
+	<content contentuid="h4ec4e1f2ga926g4f95g9ca9g0b86fce817ad">Это ваша &lt;font color="70b10e"&gt;книга навыков&lt;/font&gt;. Чтобы получить новые навыки, ищите или покупайте &lt;font color="70b10e"&gt;книги навыков&lt;/font&gt;. Существуют различные &lt;font color="70b10e"&gt;ветви навыков&lt;/font&gt;. Чтобы изучать навыки других ветвей, вкладывайте в них &lt;font color="70b10e"&gt;очки умений&lt;/font&gt;.</content>
+	<content contentuid="h8258a8a1g3a05g475bg9b96g073a94a077a6">Книга навыков</content>
+	<content contentuid="hfbe96603g2e76g4b13gae86g9f146ed37afb">Камера &lt;font color="70b10e"&gt;больше не следит&lt;/font&gt; за вашим соратником! Вы можете &lt;font color="70b10e"&gt;осмотреться&lt;/font&gt;, используя клавиши со стрелками. Чтобы вновь навести камеру на отряд, нажмите [IE_CameraCenter] или дважды щелкните по &lt;font color="70b10e"&gt;портрету&lt;/font&gt; персонажа. То же самое можно сделать, зажав [IE_FlashLeftMouse].</content>
+	<content contentuid="h8799fe44gb09fg44begbdaagcc3b40586e00">Свободная камера</content>
+	<content contentuid="h91e56bb8ga342g4e49gaaf7gc3d62aa91f8b">Чтобы отложить ход вашего персонажа в режиме боя, нажмите кнопку &lt;font color="70b10e"&gt;Отложить ход&lt;/font&gt;, и ход персонажа будет перенесен в конец раунда.</content>
+	<content contentuid="h157c01cdgfdc9g4402ga4f3gd0ed76c1e543">Отложенный ход</content>
+	<content contentuid="ha335b817g9ef9g4ffegb6fbg6fe4414b936d">Попробуйте &lt;font color="70b10e"&gt;очистить&lt;/font&gt; поверхность, используя ваши навыки, - позади ядовитой лужи есть виноградная лоза, по которой вы можете взобраться.</content>
+	<content contentuid="hb7901c22gf4b0g45c9g9d86g5d7d376f6fde">Очищение поверхностей</content>
+	<content contentuid="h5e368bb1g27b6g4096g8653gc4dfe82ffea4">Дальность видимости</content>
+	<content contentuid="h011c376cg34b7g4fa8gacfdg8f6ee504d6fd">Впереди &lt;font color="70b10e"&gt;враги&lt;/font&gt;! Нажмите [IE_ShowSneakCones] чтобы отобразить их &lt;font color="70b10e"&gt;область видимости&lt;/font&gt;. Бой начнется как только вас заметят!</content>
+	<content contentuid="h54ff0262g6d80g4bdfg953fgf677f1d79396">Особенности определяет то, как окружающие будут &lt;font color="70b10e"&gt;реагировать&lt;/font&gt; на членов вашего отряда. &lt;font color="70b10e"&gt;Каждый игровой персонаж&lt;/font&gt; обладает такими особенностями, как расса, пол, профессия и происхождение. Попробуйте поговорить с персонажем, чтобы оценить его реакцию на те или иные особенности текущего члена отряда.</content>
+	<content contentuid="h5e543e7fg484cg4fbbg8543g79ca676230a0">Особенности</content>
+	<content contentuid="h1a028535gea43g4d8cg9c4bgfefd33cf6e12">Во время событий &lt;font color="70b10e"&gt;убеждения&lt;/font&gt;, вы можете попробовать убедить оппонента в разговоре. В зависимости от ваших ответов, ваши &lt;font color="70b10e"&gt;показатели&lt;/font&gt; будет сраниватся с показателями оппонента. &lt;font color="70b10e"&gt;Превосходство&lt;/font&gt; показателей означает &lt;font color="70b10e"&gt;победу&lt;/font&gt;!</content>
+	<content contentuid="he714a373g4fa2g47feg94degdab81c6b5770">Убеждение</content>
+	<content contentuid="h4e23d7b1g986cg4767ga1feg295005776ff8">Некоторые преступления, например убийство или кража, оставляют после себя следы. Даже если никто не видел, как совершалось само действо, люди, наткнувшись на место преступления, могут начать расследование и допросы вас и ваших членов отряда.</content>
+	<content contentuid="hf08298f9g61d6g435fg905bg4f39be971877">Место преступления</content>
+	<content contentuid="h65d18a53gc41dg48c6g93b7gdcba173da662">&lt;font color="70b10e"&gt;Риск увеличился&lt;/font&gt;, люди более насторожены по отношению к вам. Риск растет с количеством совершенных &lt;font color="70b10e"&gt;преступлений&lt;/font&gt;, и изначально &lt;font color="70b10e"&gt;повышен&lt;/font&gt; в некоторых местах. Чем выше риск, тем меньше вероятность, что &lt;font color="70b10e"&gt;другие простят&lt;/font&gt; ваши проступки.</content>
+	<content contentuid="hef1755bcg4034g487dg9430g3900d1fd37a2">Риск</content>
+	<content contentuid="h13c52b87g52cag4820gb6a9g2f5593b74aa5">Новая &lt;font color="70b10e"&gt;информация&lt;/font&gt; была добавлена в Ваш &lt;font color="70b10e"&gt;журнал&lt;/font&gt;. Для доступа нажмите [IE_ToggleJournal]. Имейте в виду, что квесты, выданные конкретному &lt;font color="70b10e"&gt;члену группы&lt;/font&gt; отображаются в журнале только &lt;font color="70b10e"&gt;этого&lt;/font&gt; персонажа.</content>
+	<content contentuid="h21456998ge0aeg4b1ag81d1g1bb15c4e806b">Дневник заданий</content>
+	<content contentuid="hd30351a0gf1bcg4646g9d42gca085a08acbc">Новая &lt;font color="70b10e"&gt;информация&lt;/font&gt; была добавлена в Ваш &lt;font color="70b10e"&gt;журнал&lt;/font&gt;. Для доступа нажмите [IE_ToggleJournal]. До тех пор пока все члены отряда находятся в одном отряде, записи в дневнике являются общими. Разделив отряд, вы так же разделите и дневник. Вы можете использовать функцию &lt;font color="70b10e"&gt;"Общий дневник"&lt;/font&gt; для объеденения дневников разных групп.</content>
+	<content contentuid="h4f2f3130gf61bg4f36gb0c1gdc346f4f0260">У вас &lt;font color="70b10e"&gt;недостаточно&lt;/font&gt; Очков Действия (ОД) для выполнения этого действия. Завершите свой ход или выбиретие &lt;font color="70b10e"&gt;другое&lt;/font&gt; действие, которое требует меньшего количества ОД.</content>
+	<content contentuid="hc8a3b63agc61cg46ecg80c8g6caf2387a495">Недостаточное количество ОД</content>
+	<content contentuid="h26f6eba3g1396g427cgb3aagcdf44f78d527">Высокий уровень врага</content>
+	<content contentuid="h4ff14d2fgddc8g483bgb971g1e51a61b4521">Ваши враги более высокого уровня, чем вы. Подумайте о бегстве и возвращении, когда будете более опытны.</content>
+	<content contentuid="haa93ba6cgd99cg4091ga059g14f7cea1cc48">Секреты</content>
+	<content contentuid="h19e5d498gb240g4e69ga683gb03161431d24">Всегда смотрите в оба - этот мир полон секретов: сундуки, рычаги, нажимные плиты и многое другое. Попробуйте пройти через свисающую виноградную лозу...</content>
+	<content contentuid="ha7b2f760gcc92g40ebga344gc0a986f85355">Персонажи, которых вы пытаетесь сгруппировать, слишком далеко друг от друга. Переместите их ближе и повторите попытку.</content>
+	<content contentuid="h5908cbefg95f0g436dgacc1g24f0709e80e8">&lt;font color="70b10e"&gt;Уникальные персонажи&lt;/font&gt; имеют богатую &lt;font color="70b10e"&gt;предысторию&lt;/font&gt;, которая позволяет полностью насладится системой "Особенностей" в мире Divinity. Пользовательские персонажи не имеют предыстории. Попробуйте выбрать одного из уникальных персонажей для своего первого прохождения.</content>
+	<content contentuid="h8083646bg06a0g4bc2g9ad7gde3f43f2bf64">История персонажа</content>
+	<content contentuid="haf0bfa5bg0981g4b2cg869dg63a1d0b53cdf">Связь членов отряда</content>
+	<content contentuid="hb87f64c2g3879g4112ga59fga76104113e04">Добро пожаловать в окно &lt;font color="70b10e"&gt;Ремесла&lt;/font&gt;! Выберите или перенесите два предмета в ячейки создания предмета и нажмите "Объединить". Верные комбинации будут &lt;font color="70b10e"&gt;добавлены&lt;/font&gt; в вашу книгу рецептов.</content>
+	<content contentuid="h000000000000000000000000000000000000">Перевод: ataraxy.affliction (xvote), Nix (Icha Russ), Zoltar, Drakmour (Drakmour666). Редактура: Zoltar, genf (Нати Речная)</content>
+</contentList>
