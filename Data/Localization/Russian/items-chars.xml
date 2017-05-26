@@ -1591,7 +1591,7 @@
 	<content contentuid="h3a13a8fcg30ecg4ec9g89e9ge39284ab8c87">Магистр Лианн</content>
 	<content contentuid="hd53ee8d2g6fe4g418cg8392g52e7068df212">Магистр Локе</content>
 	<content contentuid="h1810330agd4deg464fg964ag9092f74b6518">Магистр Призрак</content>
-	<content contentuid="h9cdcf2f6g2067g4064g8d97g514200f60dec">Магистр Прист</content>
+	<content contentuid="h9cdcf2f6g2067g4064g8d97g514200f60dec">Магистр-жрец</content>
 	<content contentuid="hcbf4c56fg7f52g48d0g994ag2cce1ff980fa">Магистр Псарь</content>
 	<content contentuid="h75cfb31ega8bag4f3fg9802gcce8de18969d">Магистр Рэнли</content>
 	<content contentuid="h57bed907g77e2g40c4gb941g6e8db5d50eac">Магистр Санг</content>
@@ -3075,7 +3075,7 @@
 	<content contentuid="h8654f8fag1e21g47b3gb958ga9863f2bd68f">Среднее зелье телекинеза</content>
 	<content contentuid="h60d489f8g8aa9g4d62gb090g0c7da805d763">Среднее зелье телосложения</content>
 	<content contentuid="h9fb981c2g1b88g4044ga053gce01cb1c4990">Средняя бутылка с ядом</content>
-	<content contentuid="hdfd8688agfc9ag4101gac5bge2d6aa58359d">Средняя порция вязкого мутного зелья, повышающего ловкость.</content>
+	<content contentuid="Порция вязкого мутного зелья, повышающего ловкость.">Средняя порция вязкого мутного зелья, повышающего ловкость.</content>
 	<content contentuid="h66d251eagbe3dg40e8gb8b1g018c8e257338">Средняя порция зелья, настоянного на слезах сокола и помогающего ускориться.</content>
 	<content contentuid="hce98aecagb810g46d9gadd0gbbbf0b409b07">Средняя порция зелья, пахнущего древними книгами и дающего остроту ума.</content>
 	<content contentuid="h4f3d8a03geb81g4820g84f5g92115e7172ff">Средняя порция зелья, помогающего противостоять магии воздуха.</content>
@@ -3758,6 +3758,9 @@
 	<content contentuid="hdc2e7638g758dg4637g8b95g800c5962fdfd">Ящик с припасами внутри.</content>
 	<content contentuid="h17342386g5742g4d92gbda9gffdde35bc8b4">Ящик фокусника</content>
 	<content contentuid="h3c4d2e8fge6f4g49c2gbf8fg43a4600acb4f">Разлагающийся терромант</content>
+	<content contentuid="h840b3e2dgdc04g4410gb8fbg64df9342e2c0">Деревянный кубик-игрушка</content>
+	<content contentuid="hb16e95edg1cfag41dag8886g95591043313d">Деревянный кубик, потертый и изношенный после многих радостных часов игры.</content>
+	<content contentuid="h0ed3cd4fgf911g4cd2g9c5eg7c0b155d50e5">Вязкое мутное зелье, повышающее ловкость.</content>
 	<content contentuid="h3f2f7560g39a5g42c0ga2f0gc3db3aeae573">Roost's Eye</content>
 	<content contentuid="h714b1e61g07a5g4bbfg8ca8gd9655ee24b0b">Skybox</content>
 	<content contentuid="hbf3a0467g9379g4fbdgbe84g674cb6eddad4">Test</content>
